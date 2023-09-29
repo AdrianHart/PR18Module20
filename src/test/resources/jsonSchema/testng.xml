@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RajaOngkir Automation API">
+    <test name="Test POSITIF dan NEGATIF">
+        <classes>
+            <class name="apiautomation.AutomationRajaOngkir"/>
+        </classes>
+    </test>
+</suite>
