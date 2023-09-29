@@ -6,6 +6,7 @@ import org.apache.http.HttpStatus;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
+
 public class AutomationRajaOngkir {
     @BeforeTest
     public static void setup() {
