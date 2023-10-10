@@ -71,4 +71,4 @@ These commands will run the Cucumber tests with the specified configurations and
 
 ## Screenshoot Result Running Test
 
-- https://github.com/AdrianHart/PR18Module20/blob/main/Run%20Test%20Image%20RajaOngkir.PNGu
+- https://github.com/AdrianHart/PR18Module20/blob/main/Run%20Test%20Image%20RajaOngkir.PNG
