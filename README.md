@@ -42,13 +42,14 @@ To set up the development environment, follow these steps:
 ## Description
 
 - About src/test/java/apiautomation/AutomationRajaOngkir.java
-  This is a source code to running test and function from Raja Ongkir
-  Test 1 : testGetListProvince (Display all data province)
-  Test 2 : testGetListCity (Display all data city)
-  Test 3 : testCostRajaOngkir (Display all data delivery cost)
-  Test 4 : testLogin (Display login page, verify username and password)
-  Test 5 : testWrongURL (Web page cannot display if user enters the wrong link address or typo)
-  Test 6 : testWrongMethod (Display the wrong method)
+
+  - This is a source code to running test and function from Raja Ongkir
+  - Test 1 : testGetListProvince (Display all data province)
+  - Test 2 : testGetListCity (Display all data city)
+  - Test 3 : testCostRajaOngkir (Display all data delivery cost)
+  - Test 4 : testLogin (Display login page, verify username and password)
+  - Test 5 : testWrongURL (Web page cannot display if user enters the wrong link address or typo)
+  - Test 6 : testWrongMethod (Display the wrong method)
 
 - About src/test/resources/jsonSchema
   This is path to save all file assertion schema json and file xml
